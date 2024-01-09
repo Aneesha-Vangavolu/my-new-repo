@@ -1,8 +1,8 @@
-# This project is a game called Highlow
+
 import data
 import random
 from art import high_low,vs1
-print("Welcome to HighLow Game! This is more fun!")
+
 computer=None
 versus=None
 def guess():
